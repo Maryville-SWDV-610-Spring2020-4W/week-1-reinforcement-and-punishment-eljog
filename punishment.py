@@ -1,9 +1,9 @@
-def repeat_sentence(sentense, number_of_repetitions):
+def repeat_sentence(sentence, number_of_repetitions):
     '''
     Print the given sentence, the specified number of times.
     '''
     for i in range(number_of_repetitions):
-        print(sentense)
+        print(sentence)
 
 def test():
     '''
